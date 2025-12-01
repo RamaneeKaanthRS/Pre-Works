@@ -67,7 +67,7 @@ pre-works.py
 pip install reportlab
 
 ### 4. Run the program
-python film_preproduction.py
+python pre-works.py
 
 ---
 
