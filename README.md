@@ -61,7 +61,7 @@ Ensure Python is installed.
 
 ### 2. Download the script
 Save the program as:
-film_preproduction.py
+pre-works.py
 
 ### 3. Install PDF support (Optional)
 pip install reportlab
